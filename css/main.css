@@ -1,0 +1,25 @@
+#submit, #reset {
+    font-size: 20px;
+    background-color: #F19953;
+    color: #EDF7F6;
+    font-family: 'Asset', cursive;
+    padding: 20px;
+    border-radius: 3px;
+}
+
+.answers label {
+    display: block;
+}
+
+.answers{
+    margin-bottom: 10px;
+}
+body{
+    background-color: #7EA172;
+}
+
+h1{
+    color:#502419;
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+}
